@@ -1,0 +1,6 @@
+# Audit reports describe a real machine and never belong in this repository.
+audit-*.txt
+audit-*.md
+.DS_Store
+__pycache__/
+*.pyc

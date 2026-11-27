@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Footprint"
+  short_description: "Keep agent test resources and leftovers from filling the disk"
+  default_prompt: "Use $agent-footprint to audit what coding agents left on this machine and propose a cleanup list. Do not delete anything without my confirmation."
